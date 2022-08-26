@@ -1,5 +1,5 @@
 # clase47-serverconDeno
-#instalar
+#instalar:
 instalar deno sobre powershell -> irm https://deno.land/install.ps1 | iex     
-#ejecutar
+#ejecutar:
 para correr-> deno run --allow-net --allow-env app.ts
